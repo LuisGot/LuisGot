@@ -1,7 +1,3 @@
-<img align="left" height="300" src="https://cdn.discordapp.com/attachments/977689393093541888/1259945200739156019/Abraham-bright.jpg?ex=668d86e8&is=668c3568&hm=1beb96c391f70b4c3129bc27d6f1391eac484a7fccc6639ca7ebcf1197296ef1&"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -53,7 +49,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/Hoogmag">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=7thy787zys5dw0rn1nqbq9r4i&count=1" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Hoogmag&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
