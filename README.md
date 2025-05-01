@@ -1,4 +1,4 @@
-![Profile Banner](/src/psyonic-luisgot.png)
+![Profile Banner](/src/luisgot-banner.png)
 
 # Tools and Languages
 
