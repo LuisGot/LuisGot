@@ -1,5 +1,5 @@
-![Profile Banner](/src/luisgot-banner.png)
+Based in Munich.
 
-Ich bin Luis, Software Engineer und Gründer von Nyxos AI. Ich baue KI-Lösungen, die Menschen gerne nutzen: technisch sauber umgesetzt und so gestaltet, dass sie sich im Alltag gut anfühlen. KI setze ich nur dort ein, wo sie echten Nutzen bringt.
+I use coding agents and human taste to build things people (and agents) like to use.
 
-[nyxos-ai.com](https://nyxos-ai.com) · [LinkedIn](https://www.linkedin.com/in/luis-g%C3%B6ttler-015b9a312/)
+I keep things minimal.
